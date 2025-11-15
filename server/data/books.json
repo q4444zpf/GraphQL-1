@@ -1,0 +1,14 @@
+[
+  {
+    "id": "book-1",
+    "title": "GraphQL入门",
+    "author": "Alice",
+    "publishedYear": 2020
+  },
+  {
+    "id": "book-2",
+    "title": "精通Vue3",
+    "author": "Bob",
+    "publishedYear": 2022
+  }
+]
